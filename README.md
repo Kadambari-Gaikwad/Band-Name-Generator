@@ -1,0 +1,2 @@
+# Band-Name-Generator
+My first Python project from Angela Yu’s 100 Days of Code Course.
